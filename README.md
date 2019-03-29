@@ -1,12 +1,24 @@
 <br>
 
 <div align="center">
-    <a href=""> <img src="images/readme_badges/71EC577ABCDF4D4AE8082BED5D204919.jpg"></a>
+    <a href=""> <img src="images/readme_badges/WechatIMG649.jpeg" width="350" height="175"></a>
     <br>
     <a href=""> <img src="https://img.shields.io/badge/%3E-awesome-red.svg"></a> <a href=""><a href="https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/Python"> <img src="https://img.shields.io/badge/%3E-algorithm-red.svg"></a> <a href="https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions/Python"> <img src="https://img.shields.io/badge/%3E-leetcode-red.svg"></a> 
 </div>
 
 <br>
+
+<h2 align="center">Special Sponsors</h2>
+<table>
+      <tbody>
+        <tr>
+          <td align="center" valign="middle">
+            <a href="https://e.coding.net/?utm_source=ApacheCN&utm_medium=banner&utm_campaign=march2019" target="_blank">
+              <img width="1080" src="http://data.apachecn.org/img/SpecialSponsors/CodingNet.png">
+            </a>
+          </td>
+      </tbody>
+</table>
 
 ## Contents
 1. [Leetcode Solutions](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions)
@@ -15,6 +27,11 @@
     - [JavaScript](https://github.com/apachecn/awesome-algorithm/tree/master/docs/Leetcode_Solutions/JavaScript)
     - [C++](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions/C++)
     - [ipynb](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions/ipynb)
+2. [剑指 Offer](https://github.com/apachecn/awesome-algorithm/tree/master/docs/%E5%89%91%E6%8C%87offer)
+    - [Python](https://github.com/apachecn/awesome-algorithm/tree/master/docs/剑指offer/Python)
+    - [Java](https://github.com/apachecn/awesome-algorithm/tree/master/docs/剑指offer/Java)
+    - [JavaScript](https://github.com/apachecn/awesome-algorithm/tree/master/docs/剑指offer/JavaScript)
+    - [C++](https://github.com/apachecn/awesome-algorithm/tree/master/docs/剑指offer/C++)
 2. [Algorithm Implementation](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation)
     - [Python](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/Python)
     - [Java](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/Java)
@@ -22,7 +39,9 @@
     - [C++](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/C++)
     
 ## Useful Links
-- [kamyu104的Github](https://github.com/kamyu104/LeetCode)
+- [结构化算法刷题训练指南](https://xiaozhuanlan.com/Lisanaaa)(希望大家支持一下！)
+- [编程之法：面试和算法心得](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/index.html)
+- [kamyu104的Github](https://github.com/kamyu104/LeetCode-Solutions)
 - [数据结构与算法/leetcode/lintcode题解](https://algorithm.yuanbin.me/zh-hans/)
 - [看云文档：数据结构与算法](https://www.kancloud.cn/kancloud/data-structure-and-algorithm-notes/73048)
 - [visualgo算法可视化网站](https://visualgo.net/en)
@@ -35,12 +54,15 @@
 - https://github.com/liuchuo/LeetCode
 - [公瑾的Github](https://github.com/yuzhoujr/leetcode)
 - [shejie1993](https://shenjie1993.gitbooks.io/leetcode-python/content/096%20Unique%20Binary%20Search%20Trees.html)
-- [编程之法：面试和算法心得](https://legacy.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details)
 - [算法/NLP/深度学习/机器学习面试笔记](https://github.com/imhuay/Interview_Notes-Chinese)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
 - [OI Wiki](https://oi-wiki.org)
 - [leetcode-in-go](https://github.com/aQuaYi/LeetCode-in-Go#leetcode-%E7%9A%84-go-%E8%A7%A3%E7%AD%94)
 - [Algorithm Archive](https://github.com/algorithm-archivists/algorithm-archive)
+- [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+- [算法珠玑](https://soulmachine.gitbooks.io/algorithm-essentials/java/)
+- [AlgoCasts 用心做好每一个算法视频](https://algocasts.io)
+- [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode)
 
 ## Sponsor
 1. [Lisanaaa](https://github.com/Lisanaaa): **Feel free to see my profile and send me an email if you have any job opportunities.**
@@ -60,9 +82,9 @@
 11. [xshahq](https://github.com/xshahq)
 12. [xiaqunfeng](https://github.com/xiaqunfeng)
 13. [CaviarChen](https://github.com/CaviarChen)
-14. [飞龙](https://github.com/wizardforcel)
-15. [royIdoodle](https://github.com/royIdoodle)
-16. [MarsXue](https://github.com/MarsXue)
+14. [royIdoodle](https://github.com/royIdoodle)
+15. [MarsXue](https://github.com/MarsXue)
+16. [nature1995](https://github.com/nature1995)
 
 you can make a pull request if you are not in the list above
 ## Pull Request
@@ -76,7 +98,7 @@ If you feel your PR is satisfied with one of the conditions below, we are glad t
 
 Feel free to get our [Pull Request template/模版](https://github.com/apachecn/awesome-algorithm/blob/master/PULL_REQUEST_TEMPLATE.md)
 
-***Note that the file name needs to be filled out with underline 注意文件名需要填充下划线***
+***Title format(文件命名格式): xxx._word1_word2_word3_word4.md***
 
 If you are a newbie of Git, please check this [tutorial](https://github.com/apachecn/kaggle/tree/dev/docs/GitHub) we have made.
 
